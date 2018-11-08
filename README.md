@@ -12,7 +12,7 @@
     http://blog.loadimpact.com/k6-loves-grafana </p>
     
 <h3> Architecture </h3>
-<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/architecture.png/"><img src="https://github.com/TampereTC/k6/blob/master/architecture.png" alt="k6" width="300" height="282"></a></p>
+<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/architecture.png/"><img src="https://github.com/TampereTC/k6/blob/master/architecture.png" alt="k6" width="900" height="282"></a></p>
 
     
 
