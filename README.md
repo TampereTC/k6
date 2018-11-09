@@ -15,13 +15,13 @@
 
 <h3> Results </h3>
 <h5><u> LOGS </u></h5>
-<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/logs.png"><img src="https://github.com/TampereTC/k6/blob/master/logs.png" alt="k6" width="900" height="282"></a></p>
+<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/logs.png"><img src="https://github.com/TampereTC/k6/blob/master/logs.png" alt="k6" width="900" height="400"></a></p>
 <br>
 <h5><u> GRAFANA UI </u></h5>
-<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/UI.png"><img src="https://github.com/TampereTC/k6/blob/master/UI.png" alt="k6" width="900" height="282"></a></p>
+<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/UI.png"><img src="https://github.com/TampereTC/k6/blob/master/UI.png" alt="k6" width="900" height="400"></a></p>
 <br>
 <h5><u> bash script result </u></h5>
-<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/bash_result.png"><img src="https://github.com/TampereTC/k6/blob/master/bash_result.png" alt="k6" width="900" height="282"></a></p>
+<p align="center"><a href="https://github.com/TampereTC/k6/blob/master/bash_result.png"><img src="https://github.com/TampereTC/k6/blob/master/bash_result.png" alt="k6" width="900" height="400"></a></p>
     
 <h3> References </h3>
 <p> https://medium.com/codeinsights/how-to-load-test-your-node-js-app-using-k6-74d7339bc787 <br>
